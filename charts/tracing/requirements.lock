@@ -1,0 +1,6 @@
+dependencies:
+- name: jaeger-operator
+  repository: https://kubernetes-charts.storage.googleapis.com
+  version: 2.4.2
+digest: sha256:0a397f6d3774859ed29c5624ced01e9c0982b9275f68db39afd61d2893b5006e
+generated: "2019-05-25T11:12:11.841712032-04:00"
